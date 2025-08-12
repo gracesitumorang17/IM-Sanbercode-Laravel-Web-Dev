@@ -1,0 +1,5 @@
+Motivasi dan Harapan Mengikuti Bootcamp Laravel Web Development
+
+Motivasi utama saya mengikuti bootcamp Laravel Web Development adalah untuk memperdalam keahlian saya dari sekadar memahami konsep dasar PHP menjadi mampu membangun aplikasi web yang kompleks, terstruktur, dan aman secara profesional. Saya melihat Laravel sebagai framework yang sangat powerful dengan ekosistem yang matang, dan melalui kurikulum bootcamp yang intensif serta bimbingan dari para praktisi ahli, saya berharap dapat menguasainya secara fundamental.
+
+Harapan saya setelah menyelesaikan program ini adalah memiliki kepercayaan diri dan portofolio yang kuat untuk memulai karir sebagai seorang Backend atau Full-Stack Developer, serta mampu memberikan kontribusi nyata dalam pengembangan proyek-proyek web inovatif di industri teknologi.
